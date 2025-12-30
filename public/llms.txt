@@ -1,0 +1,60 @@
+# מצבות שיש — Generative Engine Optimization Map
+
+> A שירותי אבן ומצבות business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-2a5c24b4.zappy5.app
+גלו מצבות שיש מעוצבות בקפידה שמכבדות את זיכרון יקיריכם. פנו אלינו עוד היום לייעוץ חינם!
+
+### שירותים
+https://-2a5c24b4.zappy5.app/services
+גלו את מגוון שירותי מצבות שיש שלנו - חריטה מקצועית, עיצוב מותאם אישית ומחירים הוגנים. התקשרו לייעוץ חינם!
+
+### אודות
+https://-2a5c24b4.zappy5.app/about
+למדו על הניסיון, המקצועיות והמסירות שלנו ליצירת מצבות שיש איכותיות. אנו כאן כדי לכבוד את זיכרון יקיריכם.
+
+### צור קשר
+https://-2a5c24b4.zappy5.app/contact
+צרו קשר עם מצבות שיש לייעוץ חינם. אנו זמינים לענות על כל שאלה ולעזור לכם למצוא את המצבה המושלמת.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-2a5c24b4.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-2a5c24b4.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-2a5c24b4.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מצבות שיש
+מצבות שיש is a business in the שירותי אבן ומצבות industry.
+
+## Target Audience
+- משפחות אבלות
+- מנהלי בתי עלמין
+- מעצבי אנדרטאות
+- קהילות יהודיות
+
+## Industry
+שירותי אבן ומצבות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-2a5c24b4.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-2a5c24b4.zappy5.app/robots.txt
